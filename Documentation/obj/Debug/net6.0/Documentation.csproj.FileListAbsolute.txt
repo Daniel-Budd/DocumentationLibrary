@@ -1,0 +1,12 @@
+/home/runner/DocumentationLibrary/Documentation/obj/Debug/net6.0/Documentation.csproj.AssemblyReference.cache
+/home/runner/DocumentationLibrary/Documentation/obj/Debug/net6.0/Documentation.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/DocumentationLibrary/Documentation/obj/Debug/net6.0/Documentation.AssemblyInfoInputs.cache
+/home/runner/DocumentationLibrary/Documentation/obj/Debug/net6.0/Documentation.AssemblyInfo.cs
+/home/runner/DocumentationLibrary/Documentation/obj/Debug/net6.0/Documentation.csproj.CoreCompileInputs.cache
+/home/runner/DocumentationLibrary/Documentation/bin/Debug/net6.0/Documentation.deps.json
+/home/runner/DocumentationLibrary/Documentation/bin/Debug/net6.0/Documentation.dll
+/home/runner/DocumentationLibrary/Documentation/bin/Debug/net6.0/ref/Documentation.dll
+/home/runner/DocumentationLibrary/Documentation/bin/Debug/net6.0/Documentation.pdb
+/home/runner/DocumentationLibrary/Documentation/obj/Debug/net6.0/Documentation.dll
+/home/runner/DocumentationLibrary/Documentation/obj/Debug/net6.0/ref/Documentation.dll
+/home/runner/DocumentationLibrary/Documentation/obj/Debug/net6.0/Documentation.pdb
